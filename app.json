@@ -1,0 +1,61 @@
+{
+  "id": "261091e7-5ad6-47bb-8b56-c93df7c62064",
+  "name": "PANSeedsUAT",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "name": "India GST",
+      "publisher": "Microsoft",
+      "version": "20.1.39764.41674"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "name": "India Tax Base",
+      "publisher": "Microsoft",
+      "version": "20.1.39764.41323"
+    },
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "name": "India TCS",
+      "publisher": "Microsoft",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "name": "India TDS",
+      "publisher": "Microsoft",
+      "version": "20.1.39764.41323"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "name": "Tax Engine",
+      "publisher": "Microsoft",
+      "version": "20.1.39764.41240"
+    }
+],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "target": "Cloud"
+}
